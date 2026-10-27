@@ -33,7 +33,7 @@ CONN_THRESHOLD = int(os.environ.get("DHBS_THRESHOLD", 20))   # max new conns per
 WINDOW_SECONDS = int(os.environ.get("DHBS_WINDOW", 5))       # sliding window length
 BLOCK_SECONDS = int(os.environ.get("DHBS_BLOCK_SECONDS", 60))  # 0 = block permanently
 FLOW_IDLE_TIMEOUT = 10                                       # per-connection flow idle timeout
-WHITELIST = {"10.0.0.1"}                                     # server IP - never blocked (confirm with Person 3)
+WHITELIST = {"10.0.0.4"}                                     # server IP - never blocked (confirm with Person 3)
 
 PRIO_TABLE_MISS = 0
 PRIO_FORWARD = 10
