@@ -8,7 +8,7 @@ SDN controller and a custom multithreaded TCP socket application.
 
 | Name | SRN | Contribution |
 |------|-----|--------------|
-| Abhinav Akinepalli | PES1UG25CS013 | Ryu SDN controller (`controller/`), integration testing, test cases |
+| Abhinav Akinepalli | PES1UG25CS013 | Ryu SDN controller (`controller/`), integration testing, test cases, design document |
 | Deeksha A | PES1UG26CS813 | Socket application (`app/`), design document, README, architecture diagram |
 | Adithyan | PES1UG25CS028 | Mininet topology (`topology/`) |
 
